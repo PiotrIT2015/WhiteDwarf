@@ -1,4 +1,4 @@
-## OS-WW-P
+## WhiteDwarf
 
 ## Table of contents
 * [General info](#general-info)
